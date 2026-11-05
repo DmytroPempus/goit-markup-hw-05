@@ -27,7 +27,7 @@
 }
 
 .footer-social-section {
-  margin-right: 80px;
+  margin-right: 83px;
 }
 
 .footer-sosial-header {
@@ -74,6 +74,7 @@
 
 .footer-subscribe-wraper {
   display: block;
+  margin-left: auto;
 }
 
 .footer-subscribe-lable {
@@ -101,7 +102,7 @@
   background-color: transparent;
   color: #fff;
   font-size: 12px;
-  line-height: 1.5;
+  line-height: 1.17;
   letter-spacing: 0.04em;
   box-shadow: 0 4px 4px rgba(0, 0, 0, 0.15);
   outline: transparent;
@@ -109,7 +110,7 @@
 }
 
 .footer-subscribe-email:focus {
-  border-color: #4d5ae5;
+  border-color: #31d0aa;
 }
 
 .footer-subscribe-email::placeholder {
@@ -138,7 +139,7 @@
 
 .footer-subscribe-button:hover,
 .footer-subscribe-button:focus {
-  background-color: #404bbf;
+  background-color: #31d0aa;
 }
 
 .footer-subscribe-button-icon {
